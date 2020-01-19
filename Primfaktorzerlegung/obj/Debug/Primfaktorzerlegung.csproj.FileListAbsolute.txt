@@ -1,6 +1,0 @@
-E:\ENTW\CSharpCamp\Primfaktorzerlegung\bin\Debug\Primfaktorzerlegung.exe.config
-E:\ENTW\CSharpCamp\Primfaktorzerlegung\bin\Debug\Primfaktorzerlegung.exe
-E:\ENTW\CSharpCamp\Primfaktorzerlegung\bin\Debug\Primfaktorzerlegung.pdb
-E:\ENTW\CSharpCamp\Primfaktorzerlegung\obj\Debug\Primfaktorzerlegung.csprojAssemblyReference.cache
-E:\ENTW\CSharpCamp\Primfaktorzerlegung\obj\Debug\Primfaktorzerlegung.exe
-E:\ENTW\CSharpCamp\Primfaktorzerlegung\obj\Debug\Primfaktorzerlegung.pdb

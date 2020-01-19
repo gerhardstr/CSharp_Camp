@@ -20,7 +20,6 @@ namespace Methodenparameter_Modifikator
             int result;
             int rest;
 
-            
 
             result = MethodeDivision(dividend, divisor, out rest); 
 

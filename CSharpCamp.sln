@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rechner", "Rechner\Rechner.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primfaktorzerlegung", "Primfaktorzerlegung\Primfaktorzerlegung.csproj", "{9764DF40-57D2-4258-B783-0CA230A4A9F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGT", "GGT\GGT.csproj", "{2C6B471E-7553-48AE-98A4-B3F97D15EF69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KGV", "KGV\KGV.csproj", "{A3653E3B-B35E-4F89-AE31-93D9694AF3AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{9764DF40-57D2-4258-B783-0CA230A4A9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9764DF40-57D2-4258-B783-0CA230A4A9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9764DF40-57D2-4258-B783-0CA230A4A9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6B471E-7553-48AE-98A4-B3F97D15EF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6B471E-7553-48AE-98A4-B3F97D15EF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6B471E-7553-48AE-98A4-B3F97D15EF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6B471E-7553-48AE-98A4-B3F97D15EF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3653E3B-B35E-4F89-AE31-93D9694AF3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3653E3B-B35E-4F89-AE31-93D9694AF3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3653E3B-B35E-4F89-AE31-93D9694AF3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3653E3B-B35E-4F89-AE31-93D9694AF3AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

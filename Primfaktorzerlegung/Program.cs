@@ -25,12 +25,12 @@ namespace Primfaktorzerlegung
                 while (number % 2 == 0) // can be divided without residual value
                 {
                     numberOld = number; // keep value
-                    number = number / 2; // 
+                    number = number / 2; 
                     primefactor.Append(2);
                     Console.WriteLine($"{numberOld} / " + 2 + " = " + number);
                 }
                 for (long i = 3; i <= number; i = i + 2)
-                    while (number % i == 0)
+                    while (number % i == 0)  // while number can be divided without residual value
                     {
                         numberOld = number;
                         number = number / i;
